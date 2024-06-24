@@ -30,7 +30,7 @@ body {
 @media (max-width: 767px) {
   .cards {
     display: block;
-    padding: 5rem 2rem;
+    padding: 1rem;
   }
 }
 .cards .card {
@@ -94,7 +94,6 @@ body {
   color: var(--transparent-white);
   line-height: 2;
   font-size: 1.5rem;
-  min-height: 23rem;
 }
 @media (max-width: 1199px) {
   .cards .card .card__description {
